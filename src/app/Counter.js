@@ -2,7 +2,7 @@ import { createSlice } from '@reduxjs/toolkit'
 
 const initialState = {
   value: 0,
-  text:"practise the redux-toolkit"
+  text:"Demo the redux-toolkit"
 }
 
 export const Counter = createSlice({
